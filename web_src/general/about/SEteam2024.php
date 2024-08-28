@@ -32,7 +32,11 @@ require "../../includes/head.php";
                 Mildred Nwachukwu-Innocent, Martin Ratchford, Alexander Roop, Wesley Ryan,
                 Joshua Schmitt, Ian Skeete, Austin Smith, Matthew Smith,
                 Tyler Souders, Joshua Stoner, Camila Torres, Joey Wagner,
+<<<<<<< HEAD
                 Asher Wayde, <a href='OwenWertzberger.php'>Owen Wertzberger</a> Owen Yang, and <a href='student_template.php'>Jane Doe</a>
+=======
+                Asher Wayde, <a href='OwenWertzberger.php'>Owen Wertzberger</a>, Owen Yang, and <a href='student_template.php'>Jane Doe</a>
+>>>>>>> 76db833 (Added link to student page (with comma))
             </span>
         </div>
     </div>
